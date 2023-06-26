@@ -8,7 +8,7 @@ https://github.com/coding-boot-camp/fantastic-umbrella
 
 ## Installation
 
-This project uses Node, MySQL2, Express, Sequelize and dotenv. To insure that all dependencies are installed, run 'npm i' before then starting the server through node ('node server'). Then use mysql to source the schema 9'mysql -u root -p' and 'source schema.sql' before then running seeds (npm run seeds0.
+This project uses Node, MySQL2, Express, Sequelize and dotenv. To insure that all dependencies are installed, run 'npm i' before then starting the server through node ('node server'). Then use mysql to source the schema ('mysql -u root -p' and 'source schema.sql') before then running seeds (npm run seeds0.
 
 ## Usage
 
